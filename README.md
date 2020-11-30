@@ -1,5 +1,6 @@
 ## Android-Codelabs-Data-Binding
 Repository with the Data Binding Codelabs exercises
+
 Base code obtained in https://github.com/googlecodelabs/android-databinding
 
 ------------
