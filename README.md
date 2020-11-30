@@ -1,11 +1,7 @@
-Android Data Binding Codelab
-=============================================
-Follow the codelab in
+## Android-Codelabs-Data-Binding
+Repository with the Data Binding Codelabs exercises
 
-https://github.com/googlecodelabs/android-databinding
+------------
+What I learned:
 
-
-License
---------
-
-Copyright 2018 Google LLC. Licensed under the Apache License, Version 2.0.
+Using too many findViewById is expensive and can make the app slower, because the app traverses the view hierarchy starting at the root until the required view. This information matches with the advantage of the Constraint Layout having a more flat view hierarchy, which improves performance.
